@@ -1,1 +1,3 @@
-["getfenv", "loadstring", "require"]
+{
+    "contents": ["getfenv", "loadstring", "require"]
+}
